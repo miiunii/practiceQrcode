@@ -1,0 +1,1 @@
+# practiceQrcode using jsQR
